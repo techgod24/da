@@ -1,3 +1,4 @@
+//longest common subsequence problem
 #include <stdio.h>
 
 #include <string.h>
